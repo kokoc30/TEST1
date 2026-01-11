@@ -1,0 +1,20 @@
+# backend/requirements.txt
+
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+python-multipart
+
+# Google TTS / STT
+google-cloud-texttospeech
+google-cloud-speech
+google-auth
+
+# Cookie sessions (Starlette SessionMiddleware uses itsdangerous)
+itsdangerous
+
+# DB (per-user history persistence)
+SQLAlchemy>=2.0
+aiosqlite
+asyncpg

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "asymmetric-glow-451602-s9",
+  "private_key_id": "9dadcc23d3c838d6eeb80f6e41809959b2fa8ba0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3ieobu3mzCV3A\nFqheI7TxehLNml598uFdXtIuNdaYS4Nbls4qbLMbl+j/eTMtx5ubGz8VuJotyVwZ\naoo1Tj465fkuZE+IqsLuiFDbSRFbDkLp+dgtUpmh6EMBpzDNP7nyam/Zx0sZbwa4\nD3lNXPDWv1fr/mas2D67T++YM3KwEC9mxPt9prT2ctQvXsuKaLN4VefCBd5oSZgg\nEZB3r8IsFm+tE9CzdBZ/kWl/QvoGk0KsZK61LLJcF5zmoJHT903HqymX4Y9CaGcl\neK4jQly0FMzZyw8VEXm0ZHHmflaolQIaQUP59FUkahuZwjrzYZB4v+cPWs0za8wv\nnm6O4EjTAgMBAAECggEAFC3kIO9wVnhpp9R153/KhaAz0AowaG2bTJ4/wpflw7HN\nu/StLynrWVXO5sPHFjnziE6rFXLJ9M3GQ/8cOfcjzWr6hhi+S9rmer5fEXULpPTA\n86OmGnmR7aSxNU3SBkcC5T3BlXKddaro1LTS0+grjJjWDFrYpBlUcFi+EYBalDPL\nmIcpwsoS5zf0Uq43KL+26rP03MRcXunu/S+3PxVmaHxZfc2pUktg52TAVgHt3EaX\nSEHVPNosgg7idUy2eGolpjKTWHSCBPcVBwx1ZtmueJU03xJ49EeBA0z/DNiOhOR6\nnto8LrWsLmQddyF9chYTiddxb8KqRGK2NO03ClnQuQKBgQDmsG5fidk2V91f9JAy\nhzxC9yMMnt8hAWjjCjLdIVyGKztkYLheQAwBWCbhQM+I9ubuMnPXeHeQu0vXIVi+\nErT1Ze6C6I2SMWOjlbUDyLIhTgj0nA3x1nfhQgWswHtYytI/Nyz+WXGz16so1HZQ\nPe/RN/1qyGZAPW6YUpjRgL03SQKBgQDLrSCT9cxVRZKKChQUR41xpP9/Uu3anT5B\n07VvyXw8BnE0rvX9wmEPCI3f9FRJtMsPXHdDQTR86P5YvsFKCtEK+IwL9SD9CCsd\n+gxOF9+k9j/y4KjqV1RJdM22f6Vll+Bfrg7jYAgGgA5gkAFpOQXladTKXIR1HplL\nHJ7d0jkzOwKBgQCfBM+Qm/1XMIoxMuyTaBVqM+G9OWal4crjdoxJUk3tTq/KKcHt\ndkjQRGvIqlxlFY1qdOzVgv0oj3NgAGSj4VFMN8+J/bRZKiJ9CR2WVio0Ow6BT3Ft\nW2GXrWMsCiL8uhLj8KzbR9zRE8Gwi4RjG87MccQGb83MSoyKA6XEBPJpwQKBgCPE\nioURVEnhRuOw82fATQmZFTlR4e1TUdyThjhUZNnRs82xsAdZPFw8f1XF/YtYEZTo\nAxWvfL022XvSO/V5ws4vacCr0pg89/1yrPiF3sOEbySC6YcFwQqJVZrn/a7CpieH\nVJv/gElL8bppb6X/2pY4KKNE7gn3TqpPI2MHCP6DAoGBAMReFVGUhHeOltUh+Zf0\nA3Tek37OiowyV0C/AJh7UifKgcnwFfWYJ6nt0MqTjnmn2shfYuLn64wLGai8e4ye\nmUAzpIFtnAXKZG8AsqEVz10qNyr6jy5uYcFXqkAmlYgKaQ1xpwLjfnRqKDm8pUM0\nX9IGeFgmowKnDIqaH6R4+FWM\n-----END PRIVATE KEY-----\n",
+  "client_email": "talkbridge-tts@asymmetric-glow-451602-s9.iam.gserviceaccount.com",
+  "client_id": "102795952655365575021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talkbridge-tts%40asymmetric-glow-451602-s9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
