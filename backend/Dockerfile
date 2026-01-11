@@ -4,7 +4,6 @@ WORKDIR /app
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-# (Optional but helps if any deps need compiling)
 RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc \
  && rm -rf /var/lib/apt/lists/*
