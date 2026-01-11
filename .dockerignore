@@ -1,9 +1,0 @@
-**/__pycache__/
-**/*.pyc
-**/.venv/
-**/.env
-**/.git/
-
-backend/keys/
-backend/*.db
-backend/tts_test.mp3
