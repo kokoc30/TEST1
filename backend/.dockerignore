@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.git/
+
+keys/
+*.json
+
+talkbridge.db
+tts_test.mp3
