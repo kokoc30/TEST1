@@ -1,8 +1,5 @@
 app = "TalkBridge"
-primary_region = "lax"
-
-[build]
-  dockerfile = "backend/Dockerfile"
+primary_region = "ord"
 
 [http_service]
   internal_port = 8080
